@@ -1,0 +1,9 @@
+recipe1 = ds_grid_create(NUMBER_OF_UNIQUE_ITEMS, 1);
+recipe1[# 0,0] = 1;
+recipe1[# 1,0] = 2;
+recipe_list[0] = recipe1;
+recipe_list[1] = recipe1;
+recipe_list[2] = recipe1;
+recipe_list[3] = recipe1;
+recipe_list[4] = recipe1;
+recipe_list[5] = recipe1;

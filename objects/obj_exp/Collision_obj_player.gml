@@ -1,0 +1,1 @@
+other._exp += exp_gain;

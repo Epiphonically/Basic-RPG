@@ -1,0 +1,1 @@
+leg = obj_leg_slot.inventory[0];

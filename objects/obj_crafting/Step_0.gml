@@ -1,0 +1,1 @@
+//show_debug_message(string(has_enough_items(recipe1)));

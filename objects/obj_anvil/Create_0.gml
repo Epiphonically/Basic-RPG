@@ -1,0 +1,11 @@
+opened = false;
+crafts[0] = 0;
+crafts[1] = 1;
+crafts[2] = 2;
+crafts[3] = 3;
+crafts[4] = 1;
+crafts[5] = 0;
+item_height = 32;
+selected = noone;
+sight = 0;
+destructable = false;

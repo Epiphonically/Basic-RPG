@@ -1,0 +1,1 @@
+chestplate = obj_chestplate_slot.inventory[0];

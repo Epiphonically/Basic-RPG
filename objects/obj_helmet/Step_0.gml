@@ -1,0 +1,1 @@
+helmet = obj_helmet_slot.inventory[0];
